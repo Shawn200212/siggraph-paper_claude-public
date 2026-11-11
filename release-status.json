@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-11",
+  "platform": "claude",
+  "core": "siggraph-paper_claude",
+  "behavior_scope": "Bounded synthetic writing checks; no native Claude model or live application certification",
+  "source_sha256": {
+    "siggraph-paper": "e5d0dc0342e41ea367683695a1fcfc11513bf139f6e3b508c493bb0acfcd56fd"
+  }
+}
